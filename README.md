@@ -1,6 +1,6 @@
 ## Hi, I'm Jonas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a German/Jordanian theoretical physics msci student at Imperial College London. I'm excited about all things tech and science. Currently especially fascinated by deep reinforcement learning, meta learning and computational performance optimization.
+I'm a German/Jordanian theoretical physics msci student at Imperial College London. I'm excited about all things tech and science. Currently especially fascinated by meta learning, quantum field theory and computational performance optimization.
 
 ### :wrench: Tech & Tools
 
