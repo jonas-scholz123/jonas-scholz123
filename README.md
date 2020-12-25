@@ -18,7 +18,7 @@ I'm a German/Jordanian theoretical physics msci student at Imperial College Lond
 ![](https://img.shields.io/badge/Tools-git-blue)
 
 ### :computer: Projects
-:mortar_board: Currently, I am working on my Master's project in computational linguistics (for which you can check out my work [here.](https://github.com/jonas-scholz123/msci-project) :warning: Some parts are work in progress and exploratory!:warning:)
+:mortar_board: Currently, I am working on my Master's project in computational linguistics (for which you can check out my work [here.](https://github.com/jonas-scholz123/msci-project) :warning: Some parts are work in progress and exploratory!)
 
 ---
 
