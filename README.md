@@ -1,4 +1,12 @@
-### Hi there 👋
+## Hi, I'm Jonas :wave:
+
+I'm a msci theoretical physics student at Imperial College London. I'm excited about all things AI and generally software engineering.
+
+### Projects
+Currently, I am working on my Master's project in computational linguistics (for which you can check out my work [here.](https://github.com/jonas-scholz123/msci-project) :warning: Some parts are work in progress and exploratory!:warning:)
+
+Over the holidays, I've been learning some efficient low-level languages, mainly improving my C++ and picking up Rust. Check out my ascii-animated, optimized C++ particle simulation [here](https://github.com/jonas-scholz123/particle-simulation) or my beginner's network project in Rust [here.](https://github.com/jonas-scholz123/networks_project_rust).
+
 
 <!--
 **jonas-scholz123/jonas-scholz123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
