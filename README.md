@@ -11,11 +11,11 @@ I'm a German/Jordanian theoretical physics msci student at Imperial College Lond
 ![](https://img.shields.io/badge/lang-Javascript%20(React)-x?style=flat&logo=javascript&logoColor=white&color=brightgreen)
 ![](https://img.shields.io/badge/lang-Haskell-x?style=flat&logo=haskell&logoColor=white&color=brightgreen)
 
-![](https://img.shields.io/badge/Library-Tensorflow%20(Keras)-blue)
-![](https://img.shields.io/badge/Library-PyTorch-blue)
-![](https://img.shields.io/badge/OS-Linux-blue)
-![](https://img.shields.io/badge/Editor-Atom-blue)
-![](https://img.shields.io/badge/Tools-git-blue)
+![](https://img.shields.io/badge/Library-Tensorflow%20(Keras)-x?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-PyTorch-x?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-x?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Atom-x?style=flat&logo=atom&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-git-x?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 ### :computer: Projects
 :mortar_board: Currently, I am working on my Master's project in computational linguistics (for which you can check out my work [here.](https://github.com/jonas-scholz123/msci-project) :warning: Some parts are work in progress and exploratory!)
