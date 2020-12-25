@@ -20,9 +20,13 @@ I'm a German/Jordanian theoretical physics msci student at Imperial College Lond
 ### :computer: Projects
 :mortar_board: Currently, I am working on my Master's project in computational linguistics (for which you can check out my work [here.](https://github.com/jonas-scholz123/msci-project) :warning: Some parts are work in progress and exploratory!:warning:)
 
+---
+
 :santa: Over the holidays, I've been learning some efficient low-level languages, mainly improving my C++ and picking up Rust. Check out my ascii-animated, optimized C++ particle simulation [here](https://github.com/jonas-scholz123/particle-simulation) or my beginner's network project in Rust [here.](https://github.com/jonas-scholz123/networks_project_rust).
 
 <img src="https://github.com/jonas-scholz123/particle-simulation/blob/master/particles.gif" alt="Particle Animation" width="300">
+
+---
 
 :eyes: :arrow_right: :ear:Another project that I'm proud of is my *hearing images* application, in which live video data is converted to audio signals, which could function as a translater of visual information for visually impaired people. See the gif below:
 
