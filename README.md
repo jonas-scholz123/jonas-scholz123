@@ -7,11 +7,11 @@ I'm a German/Jordanian theoretical physics msci student at Imperial College Lond
 ### :wrench: Tech & Tools
 
 ![](https://img.shields.io/badge/lang-python-x?style=flat&logo=python&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/lang-C++-x?style=flat&logo=c%2B%2B&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/lang-Java-x?style=flat&logo=java&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/lang-Rust-x?style=flat&logo=rust&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/lang-Javascript%20(React)-x?style=flat&logo=javascript&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/lang-Haskell-x?style=flat&logo=haskell&logoColor=white&color=brightgreen)
+![](https://img.shields.io/badge/lang-C++-x?style=flat&logo=c%2B%2B&logoColor=white&color=green)
+![](https://img.shields.io/badge/lang-Java-x?style=flat&logo=java&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/lang-Rust-x?style=flat&logo=rust&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/lang-Javascript%20(React)-x?style=flat&logo=javascript&logoColor=white&color=yellowgreen)
+![](https://img.shields.io/badge/lang-Haskell-x?style=flat&logo=haskell&logoColor=white&color=yellow)
 
 ![](https://img.shields.io/badge/Library-Tensorflow%20(Keras)-x?style=flat&logo=tensorflow&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-PyTorch-x?style=flat&logo=pytorch&logoColor=white&color=2bbc8a)
