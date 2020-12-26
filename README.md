@@ -36,7 +36,7 @@ I'm a German/Jordanian theoretical physics msci student at Imperial College Lond
 
 <img src="https://github.com/jonas-scholz123/jonas-scholz123/blob/main/hilbert.gif" alt="Audible vision" height="310"> 
 
-#### :eyes: :arrow_right: :ear: Particles in a box and ascii animation
+#### :eyes: :arrow_right: :ear: Hearing Images
 Another project that I'm proud of is my *hearing images* application, in which live video data is converted to audio signals, which could function as a translater of visual information for visually impaired people. For a very quick intro, see the gif above. You can check it out (and try it out) [here.](https://github.com/jonas-scholz123/hearing-images)
 
 ---
