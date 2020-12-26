@@ -41,4 +41,7 @@ Another project that I'm proud of is my *hearing images* application, in which l
 
 ---
 
+
+### :handshake: Get in contact!
+
 Let's make things less one-sided, message me on [<img src="LI-In-Bug.png" height="20">](https://www.linkedin.com/in/jonas-scholz-4a39b6153/).
