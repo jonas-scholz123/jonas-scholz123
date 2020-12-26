@@ -28,7 +28,7 @@ I'm a German/Jordanian theoretical physics msci student at Imperial College Lond
 ---
 
 #### :collision: Particles in a box and ascii animation
-<img src="https://github.com/jonas-scholz123/particle-simulation/blob/master/particles.gif" alt="Particle Animation" height="310">
+<img src="wide_particles.gif" alt="Particle Animation" width="100%">
 
  Over the holidays, I've been learning some efficient low-level languages, mainly improving my C++ and picking up Rust. Check out my ascii-animated, optimized C++ particle simulation [here](https://github.com/jonas-scholz123/particle-simulation) or my beginner's network project in Rust [here.](https://github.com/jonas-scholz123/networks_project_rust).
 
