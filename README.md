@@ -41,6 +41,34 @@ Another project that I'm proud of is my *hearing images* application, in which l
 
 ---
 
+#### 🧩 Cryptic Crossword Solver
+
+Over the summer, I contributed to a compsci lecturer's project, a complex crossworld solver. It takes a clue from a complex crossword, comes up with the most likely solution and explains it to you. For example:
+
+<pre>
+
+The clue is: County type pair mixed, holding runs (9)
+I think the solution is "TIPPERARY"
+
+Let me explain...
+I think the answer is supposed to mean "county"
+I think "holding" indicates the insertion of one word into another      ◀ <strong> helped with this</strong> 
+   1: The text "runs" resolves to "r"
+   2: I think "mixed" indicates an anagram                              ◀ <strong> helped with this</strong> 
+         I think we have the concatenation of 2 sub-clues:
+            1: "type" is verbatim text
+            2: "pair" is verbatim text
+         Joining the results together we get "type pair"
+      The required anagram is "tippeary"
+For the insertion, "r" needs to be inserted into "tippeary"
+The result is "tipperary"
+
+</pre>
+
+---
+
+In particular, I worked on a classifier model based on word2vec embeddings, supposed to turn a word into all possible indicators it could represent. In the example above, this classifier evaluates "holding" as an insertion and "mixed" as an anagram indicator. Previously, indicator words were simply referenced against a list of indicators, but using the classifier, even previously unseen words can be classified.
+
 
 ### :handshake: Get in contact!
 
