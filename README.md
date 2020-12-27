@@ -43,7 +43,7 @@ Another project that I'm proud of is my *hearing images* application, in which l
 
 #### 🧩 Cryptic Crossword Solver
 
-Over the summer, I contributed to a compsci lecturer's project, a complex crossworld solver. It takes a clue from a complex crossword, comes up with the most likely solution and explains it to you. For example:
+Over the summer, I contributed to a compsci lecturer's project, a cryptic crossworld solver. It takes a clue from a complex crossword, comes up with the most likely solution and explains it to you. For example:
 
 <pre>
 
@@ -65,10 +65,9 @@ The result is "tipperary"
 
 </pre>
 
----
-
 In particular, I worked on a classifier model based on word2vec embeddings, supposed to turn a word into all possible indicators it could represent. In the example above, this classifier evaluates "holding" as an insertion and "mixed" as an anagram indicator. Previously, indicator words were simply referenced against a list of indicators, but using the classifier, even previously unseen words can be classified.
 
+---
 
 ### :handshake: Get in contact!
 
