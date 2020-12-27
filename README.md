@@ -43,7 +43,7 @@ Another project that I'm proud of is my *hearing images* application, in which l
 
 #### 🧩 Cryptic Crossword Solver
 
-Over the summer, I contributed to a compsci lecturer's project, a cryptic crossworld solver. It takes a clue from a complex crossword, comes up with the most likely solution and explains it to you. For example:
+Over the summer, I contributed to a compsci lecturer's project, a cryptic crossworld solver. It takes a clue from a cryptic crossword, comes up with the most likely solution and explains it to you. For example:
 
 <pre>
 
