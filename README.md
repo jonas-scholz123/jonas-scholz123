@@ -1,15 +1,15 @@
 ## Hi, I'm Jonas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a German/Jordanian theoretical physics msci student at Imperial College London. I'm excited about all things tech and science. Currently especially fascinated by meta learning, quantum field theory and computational performance optimization.
+I'm a German/Jordanian software engineer with a background in theoretical physics from Imperial College London. Currently interested in Rust, meta learning and quantum field theory.
 
 ---
 
 ### :wrench: Tech & Tools
 
 ![](https://img.shields.io/badge/lang-python-x?style=flat&logo=python&logoColor=white&color=brightgreen)
-![](https://img.shields.io/badge/lang-C++-x?style=flat&logo=c%2B%2B&logoColor=white&color=green)
+![](https://img.shields.io/badge/lang-Rust-x?style=flat&logo=rust&logoColor=white&color=green)
+![](https://img.shields.io/badge/lang-C#-x?style=flat&logo=c%23&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/lang-Java-x?style=flat&logo=java&logoColor=white&color=yellowgreen)
-![](https://img.shields.io/badge/lang-Rust-x?style=flat&logo=rust&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/lang-Javascript%20(React)-x?style=flat&logo=javascript&logoColor=white&color=yellowgreen)
 ![](https://img.shields.io/badge/lang-Haskell-x?style=flat&logo=haskell&logoColor=white&color=yellow)
 
@@ -22,10 +22,6 @@ I'm a German/Jordanian theoretical physics msci student at Imperial College Lond
 ---
 
 ### :computer: Projects
-
-:mortar_board: Currently, I am working on my Master's project in computational linguistics (check out my work [here.](https://github.com/jonas-scholz123/msci-project) :warning: Some parts are work in progress and exploratory!)
-
----
 
 #### :collision: Particles in a box and ascii animation
 <img src="wide_particles.gif" alt="Particle Animation" width="100%">
@@ -66,6 +62,7 @@ The result is "tipperary"
 </pre>
 
 In particular, I worked on a classifier model based on word2vec embeddings, supposed to turn a word into all possible indicators it could represent. In the example above, this classifier evaluates "holding" as an insertion and "mixed" as an anagram indicator. Previously, indicator words were simply referenced against a list of indicators, but using the classifier, even previously unseen words can be classified.
+
 
 ---
 
