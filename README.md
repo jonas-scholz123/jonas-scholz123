@@ -1,4 +1,4 @@
-## Hi, I'm Jonas <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Hi, I'm Jonas :wave:
 
 I'm a German/Jordanian software engineer with a background in theoretical physics from Imperial College London. Currently interested in Rust, meta learning and quantum field theory.
 
