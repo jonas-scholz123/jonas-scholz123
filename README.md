@@ -23,10 +23,15 @@ I'm a German/Jordanian software engineer with a background in theoretical physic
 
 ### :computer: Projects
 
+#### :bus: London Travel Time Heatmap
+This heatmap tells you how long it takes to get to anywhere in London via public transport from one or more starting locations. Ideal for figuring out where to meet with your friends, or how well your potential new home is connected. The backend is written in rust and the frontend in react.
+<img src="travel_time.png" alt="Travel time heatmap"/>
+Check it out [here!](https://londontraveltime.herokuapp.com/).
+
 #### :collision: Particles in a box and ascii animation
 <img src="wide_particles.gif" alt="Particle Animation" width="100%">
 
- Over the holidays, I've been learning some efficient low-level languages, mainly improving my C++ and picking up Rust. Check out my ascii-animated, optimized C++ particle simulation [here](https://github.com/jonas-scholz123/particle-simulation) or my beginner's network project in Rust [here.](https://github.com/jonas-scholz123/networks_project_rust).
+ Check out my ascii-animated, optimized C++ particle simulation [here](https://github.com/jonas-scholz123/particle-simulation).
 
 ---
 
