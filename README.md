@@ -24,9 +24,9 @@ I'm a German/Jordanian software engineer with a background in theoretical physic
 ### :computer: Projects
 
 #### :bus: London Travel Time Heatmap
-This heatmap tells you how long it takes to get to anywhere in London via public transport from one or more starting locations. Ideal for figuring out where to meet with your friends, or how well your potential new home is connected. The backend is written in rust and the frontend in react.
+This heatmap tells you how long it takes to get to anywhere in London via public transport from one or more starting locations. Ideal for figuring out where to meet with your friends, or how well your potential new home is connected. The backend is written in rust and the frontend in react. Check it out [here!](https://tflmap.onrender.com/).
 <img src="travel_time.png" alt="Travel time heatmap"/>
-Check it out [here!](https://londontraveltime.herokuapp.com/).
+
 
 #### :collision: Particles in a box and ascii animation
 <img src="wide_particles.gif" alt="Particle Animation" width="100%">
